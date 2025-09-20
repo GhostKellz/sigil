@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/sigil-logo.png" alt="Sigil Logo" width="200"/>
+</div>
+
 # Sigil
 
 > Your DevOps familiar for automation, scripting, and cloud orchestration
